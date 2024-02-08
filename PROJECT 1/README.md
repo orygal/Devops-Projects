@@ -1,4 +1,4 @@
-# Linux Project for Commands
+# Linux Practice Projects for Commands
 
 ## 1. 'sudo' command
 
