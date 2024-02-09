@@ -2,7 +2,7 @@
 
 ## Initializing git repository
 
-I initialized the git repository, created a new directory called "devops". I then proceeded to change directory to the new one i just created before initializing git, as seen below.
+I initialized the git repository by launching term, created a new directory called "devops". I then proceeded to change directory to the new one i just created before initializing git, as seen below.
 
 ![alt text](<Images/Screenshot from 2024-02-08 17-10-23.png>)
 
@@ -113,10 +113,3 @@ Exlamation mark, followed by square brackets and then parenthesis are used to di
 Backticks are used to display codes, just enclose the code in them.
 
 `console.log('Welcome to darey.io')`
-
-
-
-
-
-
-
